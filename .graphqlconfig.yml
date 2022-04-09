@@ -1,0 +1,15 @@
+projects:
+  ecommerce-prod-frontend-api:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - src/graphql/**/*.js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: src/graphql
+        region: us-east-1
+        apiId: bo7ggkp7fvf67cu4bl6bl3etti
+        maxDepth: 2

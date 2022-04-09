@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "cs5224onestope374cdfd": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
