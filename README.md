@@ -34,7 +34,7 @@ $ amplify push
 ```
 ## Set up Frontend
 1. Go to AWS Ampliy console
-2. Select this project.
+2. Select this project
 3. Follow the instructions to complete the setup to connect to the source code [Gitlab repository](https://github.com/doge95/cs5224-onestop).
 4. Add environment variables to the build settings.  
 
